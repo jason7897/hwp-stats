@@ -2,8 +2,8 @@ name: collect-stats
 
 on:
   schedule:
-    # 매일 00:05 UTC = 한국시간 09:05
-    - cron: "5 0 * * *"
+    # 매일 00:05 / 09:05 UTC = 한국시간 09:05 / 18:05
+    - cron: "5 0,9 * * *"
   workflow_dispatch:
 
 permissions:
