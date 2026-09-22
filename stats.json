@@ -1,9 +1,9 @@
 {
   "ok": false,
   "error": {
-    "reason": "no_token",
-    "detail": "VERCEL_TOKEN 시크릿이 아직 설정되지 않았습니다. 첫 수집 전 상태입니다.",
-    "at": "2026-09-22T01:40:00.000Z"
+    "reason": "vercel_api_failed",
+    "detail": "Cannot convert argument to a ByteString because the character at index 7 has a value of 54840 which is greater than 255.",
+    "at": "2026-09-22T04:10:45.401Z"
   },
-  "checkedAt": "2026-09-22T01:40:00.000Z"
+  "checkedAt": "2026-09-22T04:10:45.401Z"
 }
