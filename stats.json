@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "error": {
+    "reason": "no_token",
+    "detail": "VERCEL_TOKEN 시크릿이 아직 설정되지 않았습니다. 첫 수집 전 상태입니다.",
+    "at": "2026-09-22T01:40:00.000Z"
+  },
+  "checkedAt": "2026-09-22T01:40:00.000Z"
+}
