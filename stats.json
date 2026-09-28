@@ -1,19 +1,31 @@
 {
   "ok": true,
-  "checkedAt": "2026-09-27T14:37:43.018Z",
+  "checkedAt": "2026-09-28T04:43:09.929Z",
   "since": "2026-09-21T00:00:00.000Z",
   "total": {
-    "visitors": 0,
-    "pageviews": 0
+    "visitors": 1,
+    "pageviews": 1
   },
   "sources": {
-    "direct": 0,
+    "direct": 8,
     "naver": 0,
     "google": 0,
     "daum": 0,
     "bing": 0,
     "etc": 0
   },
-  "referrers": [],
-  "rawReferrerRows": []
+  "referrers": [
+    {
+      "host": "(직접 유입)",
+      "pageviews": 8,
+      "visitors": 4
+    }
+  ],
+  "rawReferrerRows": [
+    {
+      "referrerHostname": "",
+      "visitors": 4,
+      "pageviews": 8
+    }
+  ]
 }
