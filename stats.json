@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "checkedAt": "2026-09-28T17:30:30.898Z",
+  "checkedAt": "2026-09-29T05:09:27.829Z",
   "since": "2026-09-21T00:00:00.000Z",
   "total": {
-    "visitors": 1,
-    "pageviews": 1
+    "visitors": 6,
+    "pageviews": 10
   },
   "sources": {
-    "direct": 8,
+    "direct": 15,
     "naver": 2,
     "google": 0,
     "daum": 0,
@@ -17,8 +17,8 @@
   "referrers": [
     {
       "host": "(직접 유입)",
-      "pageviews": 8,
-      "visitors": 4
+      "pageviews": 15,
+      "visitors": 7
     },
     {
       "host": "m.search.naver.com",
@@ -34,8 +34,8 @@
   "rawReferrerRows": [
     {
       "referrerHostname": "",
-      "visitors": 4,
-      "pageviews": 8
+      "visitors": 7,
+      "pageviews": 15
     },
     {
       "referrerHostname": "m.search.naver.com",
