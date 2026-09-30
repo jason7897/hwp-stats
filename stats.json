@@ -1,14 +1,14 @@
 {
   "ok": true,
-  "checkedAt": "2026-09-29T15:33:56.773Z",
+  "checkedAt": "2026-09-30T04:56:54.090Z",
   "since": "2026-09-21T00:00:00.000Z",
   "total": {
-    "visitors": 6,
-    "pageviews": 10
+    "visitors": 12,
+    "pageviews": 20
   },
   "sources": {
     "direct": 15,
-    "naver": 5,
+    "naver": 10,
     "google": 0,
     "daum": 0,
     "bing": 0,
@@ -22,13 +22,13 @@
     },
     {
       "host": "search.naver.com",
-      "pageviews": 4,
-      "visitors": 4
+      "pageviews": 8,
+      "visitors": 7
     },
     {
       "host": "m.search.naver.com",
-      "pageviews": 1,
-      "visitors": 1
+      "pageviews": 2,
+      "visitors": 2
     }
   ],
   "rawReferrerRows": [
@@ -39,13 +39,13 @@
     },
     {
       "referrerHostname": "search.naver.com",
-      "visitors": 4,
-      "pageviews": 4
+      "visitors": 7,
+      "pageviews": 8
     },
     {
       "referrerHostname": "m.search.naver.com",
-      "visitors": 1,
-      "pageviews": 1
+      "visitors": 2,
+      "pageviews": 2
     }
   ]
 }
