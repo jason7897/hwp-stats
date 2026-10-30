@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "checkedAt": "2026-10-29T15:57:28.745Z",
+  "checkedAt": "2026-10-30T05:09:47.379Z",
   "since": "2026-09-21T00:00:00.000Z",
   "total": {
     "visitors": 28,
@@ -51,6 +51,6 @@
   "error": {
     "reason": "vercel_api_failed",
     "detail": "HTTP 400 — Invalid request: the hobby plan only grants access to the latest 31 days of data.",
-    "at": "2026-10-29T15:57:28.745Z"
+    "at": "2026-10-30T05:09:47.379Z"
   }
 }
